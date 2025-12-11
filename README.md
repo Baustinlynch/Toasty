@@ -10,6 +10,7 @@
 ## PCB
 
 I made my PCB using KiCad.
+
 ![PCB layout from KiCad](Images/board-photo.png)
 ![PCB schematic from KiCad](Images/pcb-layout-20251210211047.png)
 
