@@ -1,34 +1,26 @@
 # Toasty Pad
 
----
-
 ## Features
 
-- 3x3
-- 9 Keys
-- Minimalist i guess
-- The keys can be programmed to run any macro with QMK
+- 3×3 grid
+- 9 keys
+- Minimalist design
+- Keys can be programmed with macros using QMK
 
----
 ## PCB
-I made my PCB KiCad
 
-![alt text](image.png)
+I made my PCB using KiCad.
 
-![[Pasted image 20251210211047.png]]
+![PCB layout from KiCad](Images/pcb-layout-20251210211047.png)
 
-> this probably breaks so many schematic layout rules but it looks like it will work so ...
+> This probably breaks many schematic/layout rules, but it looks like it will work.
 
-
---- 
 ## CAD
 
-![[Pasted image 20251210212622.png]]
+Printed in two pieces; looks pretty good. Made in Onshape.
 
-Printed in 2 pieces, looks pretty good in my opinion.
-Made in onshape.
+![Assembly preview](Images/assembly-preview-20251210212622.png)
 
----
 ## Firmware
 
-It uses QMK firmware that is premade on this repo :)
+This project uses QMK firmware included in this repository.
