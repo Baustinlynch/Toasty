@@ -10,8 +10,8 @@
 ## PCB
 
 I made my PCB using KiCad.
-
-![PCB layout from KiCad](Images/pcb-layout-20251210211047.png)
+![PCB layout from KiCad](Images/board-photo.png)
+![PCB schematic from KiCad](Images/pcb-layout-20251210211047.png)
 
 > This probably breaks many schematic/layout rules, but it looks like it will work.
 
@@ -20,7 +20,7 @@ I made my PCB using KiCad.
 Printed in two pieces; looks pretty good. Made in Onshape.
 
 ![Assembly preview](Images/assembly-preview-20251210212622.png)
-
+![Exploded Assembly preview](Images/exploded-assembly.png)
 ## Firmware
 
 This project uses QMK firmware included in this repository.
