@@ -25,3 +25,10 @@ I made my PCB KiCad
 
 ![[Pasted image 20251210212622.png]]
 
+Printed in 2 pieces, looks pretty good in my opinion.
+Made in onshape.
+
+---
+## Firmware
+
+It uses QMK firmware that is premade on this repo :)
