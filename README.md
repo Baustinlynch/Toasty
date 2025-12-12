@@ -10,6 +10,7 @@
 ## PCB
 
 I made my PCB using KiCad.
+
 ![PCB Preveiw from KiCad](Images/3D-PCB.png)
 /\ PCB uses a ground plane so it looks like the gnd pins are not connected but they are :)
 ![PCB layout from KiCad](Images/board-photo.png)
